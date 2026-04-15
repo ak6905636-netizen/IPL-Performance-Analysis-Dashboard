@@ -100,7 +100,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
+![Dashboard Preview](Dashboard.png)
 
 ---
 
